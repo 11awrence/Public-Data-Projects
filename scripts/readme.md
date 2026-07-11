@@ -1,0 +1,4 @@
+- Best of Analysis - serves for the blog post "Top 5 courses in year 20xx"
+- HEI Integration_CleanUp -  user categorisation based on email domain. "Which higher education institution do they come from?" 
+- HEI Integration_growth - an extension of the categorisation, adding timestamps so that the changes can be traced in a continuous flow.
+- Moodle Course and Cert merge- merging the output from two SQL views, which is used for Course_development analysis.
