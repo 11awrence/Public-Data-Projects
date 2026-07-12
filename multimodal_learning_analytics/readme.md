@@ -1,6 +1,9 @@
-This folder contains my data work (2020 - 2023), which served for Multimodal Learning Analytics (MMLA). 
- -- AOI2TS_formatter.py - converting eye-tracking data to timeseries
- -- EDA_Analysis.R - for Electrodermal Activity signal coupling
- -- ExpDataAnalysis - analysis for the experiment
- -- FixedPara_CRQA/FixedRR_CRQA - eye-tracking timeseries coupling
- -- IRR calculation - inter-rater reliability calculation with Krippendorff's Alpha
+# About this folder
+This folder contains my scripts for Multimodal Learning Analytics (MMLA).  
+## What's inside this folder?
+These are the files inside this folder:
+1. Pilot: data analysis scripts for the pilot study
+2. mainStudy: data analysis scripts for the main study
+3. AOI2TS_formatter.py - converting eye-tracking data from Tobii output to timeseries
+## Notes
+Scripts in both folders served publications. 
