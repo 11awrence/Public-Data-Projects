@@ -6,7 +6,7 @@ There are two folders in this folder:
 3. HEI Integration_CleanUp.ipynb -  user categorisation based on email domain. "Which higher education institution do they come from?"
 4. HEI Integration_growth.ipynb - an extension of the categorisation, adding timestamps so that the changes can be traced in a continuous flow.
 5. Moodle Course and Cert merge.ipynb- merging the output from two SQL views, which is used for Course_development analysis.
-6. Moodle_Active_Learner.ipynb - an analysis for getting insights into the inactive Moodle users by year and know how many users are likely active.
+6. Inactive_Users.ipynb - an analysis for getting insights into the numbers of inactive Moodle & Drupal users by year and estimate how many users are likely active.
 ## Notes
 The datasets are extracted from the learning management systems (Moodle, openHPI)
 Dependencies: pandas, numpy, matplotlib, seaborn, re, json
