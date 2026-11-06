@@ -7,6 +7,7 @@ There are two folders in this folder:
 4. HEI Integration_growth.ipynb - an extension of the categorisation, adding timestamps so that the changes can be traced in a continuous flow.
 5. Inactive_Users.ipynb - an analysis for getting insights into the numbers of inactive Moodle & Drupal users by year and estimate how many users are likely active.
 6. Moodle Course and Cert merge.ipynb- merging the output from two SQL views, which is used for Course_development analysis.
+7. sachsenDomains.ipynb - counting of enrolled users from Sachen HEIs
 ## Notes
 The datasets are extracted from the learning management systems (Moodle, openHPI)
 Dependencies: pandas, numpy, matplotlib, seaborn, re, json
